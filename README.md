@@ -1,1 +1,3 @@
-# Zeeee
+We have processed the data entirely according to the instructions and code workflow described in the article: News data is sourced from the Alpaca News API, manually verified for accuracy and effectiveness, and then supplemented with Reuters news to fill the data up to the 1655 entries mentioned in the code. The 10K10Q data come from official documents, and all model-related parameter settings are aligned with the Finmem article.
+
+We have made the data we organized ourselves available for other followers who are interested in Finmem to check and discuss. We also warmly welcome like-minded individuals to join us in exchanging and learning！
